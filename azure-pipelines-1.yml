@@ -11,8 +11,8 @@ resources:
   repositories:
     - repository: Templates
       type: github
-      name: mayar-1995/Azure-Templates
-      endpoint: mayar-1995
+      name: MayarSahab/Azure-Templates
+      endpoint: MayarSahab
 
 jobs:
 - template: base-template.yml@Templates  # Template reference
